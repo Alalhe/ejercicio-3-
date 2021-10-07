@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Álvaro Pérez
 =======
 Ariadna Redondo
+>>>>>>> origin/main
+=======
+Victor Carles
+=======
+Ariadna Redondo
+
 >>>>>>> origin/main
