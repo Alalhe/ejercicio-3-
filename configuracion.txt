@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 cd/c/users/Álex/documents/dam/sistemas/ejercicio_3
 
 
 C\Users\Álvaro\Desktop\Repo3
+=======
+cd/c/users/Victor/Desktop/ejercicio-3
+>>>>>>> origin/main
